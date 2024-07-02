@@ -19,7 +19,11 @@ OBS: SUBTRAÇÃO não existe como função no Excel: subtração se faz através
 
 Soma se uma condição acontecer, ou seja, em um intervalo, atendido um critério, se faz a soma de outro intervalo selecionado.
 
-
 ### 📌CONT.SE
 
 Contar se uma condição acontecer, logo, usa intervalo que será analisado e o critério que será procurado e contado.
+
+### 📌CONCAT
+
+Serve para concatenar células (texto1; texto2)... basta referenciar as células que serão concatenadas em uma nova e única célula ou células mescladas.
+
