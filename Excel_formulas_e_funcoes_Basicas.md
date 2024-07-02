@@ -27,6 +27,10 @@ Contar se uma condição acontecer, logo, usa intervalo que será analisado e o 
 
 Conta a quantidade de linhas da coluna que está em uso, como exemplo podemos contar a quantidade de chamados ou a quantidade de pedidos, pois o resultado não será o gerado em relação aos valores contidos nas células e sim, a quantidade de linhas que foi utilizado na coluna em que foi selecionado o intervalo a ser analisado. CONT.VALORES(valor1; valor2)
 
+### 📌CONT.VAZIO
+
+Vai contar os espaços em branco do intervalo selecionado.
+
 ### 📌CONCAT
 
 Serve para concatenar células (texto1; texto2)... basta referenciar as células que serão concatenadas em uma nova e única célula ou células mescladas.
