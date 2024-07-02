@@ -9,7 +9,7 @@ MÁXIMO(intervalo)
 MÍNIMO(intervalo)
 QUOCIENTE(numerador;denominador)
 
-OBS: SUBTRAÇÃO não existe como função no Excel: subtração se faz através da fórmula.
+OBS👉 SUBTRAÇÃO não existe como função no Excel: subtração se faz através da fórmula.
 
 ### 📌Funções relativas ou absolutas:
 
@@ -27,3 +27,4 @@ Contar se uma condição acontecer, logo, usa intervalo que será analisado e o 
 
 Serve para concatenar células (texto1; texto2)... basta referenciar as células que serão concatenadas em uma nova e única célula ou células mescladas.
 
+ OBS👉 quando usa a função concat os valores ficam juntos (sem espaços), então, para resolver esse problema, no lugar de usar concat, use o operador lógico & para concatenar e para dar espaço use " ".
