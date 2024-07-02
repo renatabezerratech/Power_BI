@@ -22,4 +22,4 @@ Soma se uma condição acontecer, ou seja, em um intervalo, atendido um critéri
 
 ### 📌CONT.SE
 
-Contar se uma condição acontecer
+Contar se uma condição acontecer, logo, usa intervalo que será analisado e o critério que será procurado e contado.
