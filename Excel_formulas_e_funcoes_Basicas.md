@@ -2,12 +2,12 @@
 
 ### 📌Funções básicas:
 
-SOMA(num1;num2) podendo usar um intervalo de células
-MULT(num1;num2) podendo usar um intervalo de células
-MÉDIA(intervalo)
-MÁXIMO(intervalo)
-MÍNIMO(intervalo)
-QUOCIENTE(numerador;denominador)
+# SOMA(num1;num2) podendo usar um intervalo de células
+# MULT(num1;num2) podendo usar um intervalo de células
+# MÉDIA(intervalo)
+# MÁXIMO(intervalo)
+# MÍNIMO(intervalo)
+# QUOCIENTE(numerador;denominador)
 
 OBS👉 SUBTRAÇÃO não existe como função no Excel: subtração se faz através da fórmula.
 
@@ -33,4 +33,3 @@ Serve para concatenar células (texto1; texto2)... basta referenciar as células
 
  OBS👉 quando usa a função concat os valores ficam juntos (sem espaços), então, para resolver esse problema, no lugar de usar concat, use o operador lógico & para concatenar e para dar espaço use " ".
 
- 
