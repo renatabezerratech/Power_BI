@@ -2,12 +2,12 @@
 
 ### 📌Funções básicas:
 
-# SOMA(num1;num2) podendo usar um intervalo de células
-# MULT(num1;num2) podendo usar um intervalo de células
-# MÉDIA(intervalo)
-# MÁXIMO(intervalo)
-# MÍNIMO(intervalo)
-# QUOCIENTE(numerador;denominador)
+#### SOMA(num1;num2) podendo usar um intervalo de células
+#### MULT(num1;num2) podendo usar um intervalo de células
+#### MÉDIA(intervalo)
+#### MÁXIMO(intervalo)
+#### MÍNIMO(intervalo)
+#### QUOCIENTE(numerador;denominador)
 
 OBS👉 SUBTRAÇÃO não existe como função no Excel: subtração se faz através da fórmula.
 
