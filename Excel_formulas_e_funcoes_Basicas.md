@@ -37,3 +37,7 @@ Serve para concatenar células (texto1; texto2)... basta referenciar as células
 
  OBS👉 quando usa a função concat os valores ficam juntos (sem espaços), então, para resolver esse problema, no lugar de usar concat, use o operador lógico & para concatenar e para dar espaço use " ".
 
+### 📌PROCV
+
+Nada mais é do que procurar na vertical, ou seja, através de uma referência você procura um valor. O valor procurado vai ser encontrado através da sua referência, aí você vai começar a seleção pela coluna onde está o valor que você está usando como referência para encontrar o resultado e vai arrastar a seleção até toda a área (formando uma matriz) onde você quer procurar o dado que você quer obter. A coluna índice será a coluna onde se encontra o dado procurado. Você pode escolher ter um dado resposta de um valor aproximado ou a correspondência exata a sua referência.
+
