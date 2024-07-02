@@ -17,7 +17,7 @@ OBS: SUBTRAÇÃO não existe como função no Excel: subtração se faz através
 
 ### 📌SOMASE
 
-Soma se uma condição acontecer
+Soma se uma condição acontecer, ou seja, em um intervalo, atendido um critério, se faz a soma de outro intervalo selecionado.
 
 
 ### 📌CONT.SE
