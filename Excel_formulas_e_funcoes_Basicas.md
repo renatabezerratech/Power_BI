@@ -45,3 +45,7 @@ Nada mais é do que procurar na vertical, ou seja, através de uma referência v
 
 Essa função utiliza o teste lógico para verificar se a condição foi atendida ou não. 
 
+## Alguns atalhos importantes:
+
+#### CTRL + E
+Preenchimento relâmpago ---> pode ser usado para adiantar o preenchimento de dados das colunas que estamos particionando de outra coluna com os dados separados apenas por separador (várias informações na mesma coluna).
