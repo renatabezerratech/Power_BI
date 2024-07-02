@@ -13,7 +13,7 @@ OBS: SUBTRAÇÃO não existe como função no Excel: subtração se faz através
 
 ### 📌Funções relativas ou absolutas:
 
-É quando você precisa travar o valor de uma célula (absoluta: $A$2) ou travar apenas valores da linha ou coluna (relativas: $A2  ou  A$2).
+É quando você precisa travar o valor de uma célula - pressione F4 - (absoluta: $A$2) ou travar apenas valores da linha ou coluna (relativas: $A2  ou  A$2).
 
 ### 📌SOMASE
 
