@@ -45,6 +45,10 @@ Nada mais é do que procurar na vertical, ou seja, através de uma referência v
 
 Essa função utiliza o teste lógico para verificar se a condição foi atendida ou não. 
 
+### 📌PROCX
+
+Quando precisar fazer busca sem que seja a direita da referência, pode usar a função PROCX que não vai ter problema. Você clica na célula que tá o valor que vai procurar, depois clica onde vai procurar e depois, na coluna onde tá o valor que vai ser retornado como resposta.
+
 ## Alguns atalhos importantes:
 
 #### CTRL + E
