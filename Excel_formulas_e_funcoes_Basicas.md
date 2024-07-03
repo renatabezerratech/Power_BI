@@ -39,7 +39,7 @@ Serve para concatenar células (texto1; texto2)... basta referenciar as células
 
 ### 📌PROCV
 
-Nada mais é do que procurar na vertical, ou seja, através de uma referência você procura um valor. O valor procurado vai ser encontrado através da sua referência, aí você vai começar a seleção pela coluna onde está o valor que você está usando como referência para encontrar o resultado e vai arrastar a seleção até toda a área (formando uma matriz) onde você quer procurar o dado que você quer obter. A coluna índice será a coluna onde se encontra o dado procurado. Você pode escolher ter um dado resposta de um valor aproximado ou a correspondência exata a sua referência.
+Nada mais é do que procurar na vertical, ou seja, através de uma referência você procura um valor. O valor procurado vai ser encontrado através da sua referência, aí você vai começar a seleção pela coluna onde está o valor que você está usando como referência para encontrar o resultado e vai arrastar a seleção até toda a área (formando uma matriz) onde você quer procurar o dado que você quer obter. Observação importante é que a função PROCV vai fazer a varredura apenas nas colunas a direita da coluna de referência. A coluna índice será a coluna onde se encontra o dado procurado. Você pode escolher ter um dado resposta de um valor aproximado ou a correspondência exata a sua referência.
 
 ### 📌SE
 
@@ -49,3 +49,10 @@ Essa função utiliza o teste lógico para verificar se a condição foi atendid
 
 #### CTRL + E
 Preenchimento relâmpago ---> pode ser usado para adiantar o preenchimento de dados das colunas que estamos particionando de outra coluna com os dados separados apenas por separador (várias informações na mesma coluna).
+
+#### CTRL + X
+Serve para recortar uma coluna para trocá-la de lugar.
+
+#### CTRL +
+Apenas com o sinal de mais, ao clicar na posição que vai inserir a coluna, você cola a coluna recortada para trocar de lugar.
+
