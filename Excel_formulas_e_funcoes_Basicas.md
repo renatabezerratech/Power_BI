@@ -53,6 +53,10 @@ OBS👉 SUBTRAÇÃO não existe como função no Excel: subtração se faz atrav
 
 👉 (pesquisa valor ---> clica na célula onde está o valor que vai ser procurado; pesquisa matriz ---> seleciona a coluna onde o valor será pesquisado; matriz retorno ---> seleciona a coluna que será onde o valor que será o retorno/resultado está; só isso basta para usar a função ENTER)
 
+### 📌ALEATORIOENTRE
+
+👉 (ALEATORIOENTRE(inferior, superior)) função para gerar números aleatórios dentro de um intervalo definido. Serve para gerar dados para testes, serve para gerar senhas, etc
+
 ## Alguns atalhos importantes:
 
 #### CTRL + E
