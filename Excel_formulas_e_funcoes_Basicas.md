@@ -1,4 +1,4 @@
-# Excel 📅
+# Excel 📅 ![alt text](image.png)
 
 ### 📌Funções básicas:
 
@@ -38,6 +38,8 @@ Serve para concatenar células (texto1; texto2)... basta referenciar as células
  OBS👉 quando usa a função concat os valores ficam juntos (sem espaços), então, para resolver esse problema, no lugar de usar concat, use o operador lógico & para concatenar e para dar espaço use " ".
 
 ### 📌PROCV
+
+(valor procurado; matriz tabela ---> é quando vc seleciona a coluna onde está o valor que se procura e arrasta até a coluna que dará o resultado esperado; num_indice_coluna ---> é quando aponta o número da posição da coluna que dará o resultado dentro da seleção (matriz); procurar intervalo ---> aqui é para saber se vai querer que o resultado seja exato ou um valor aproximado)
 
 Nada mais é do que procurar na vertical, ou seja, através de uma referência você procura um valor. O valor procurado vai ser encontrado através da sua referência, aí você vai começar a seleção pela coluna onde está o valor que você está usando como referência para encontrar o resultado e vai arrastar a seleção até toda a área (formando uma matriz) onde você quer procurar o dado que você quer obter. Observação importante é que a função PROCV vai fazer a varredura apenas nas colunas a direita da coluna de referência. A coluna índice será a coluna onde se encontra o dado procurado. Você pode escolher ter um dado resposta de um valor aproximado ou a correspondência exata a sua referência.
 
