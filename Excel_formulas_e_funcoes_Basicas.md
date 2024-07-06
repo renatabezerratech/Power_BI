@@ -57,6 +57,8 @@ OBS👉 SUBTRAÇÃO não existe como função no Excel: subtração se faz atrav
 
 👉 (ALEATORIOENTRE(inferior, superior)) função para gerar números aleatórios dentro de um intervalo definido. Serve para gerar dados para testes, serve para gerar senhas, etc
 
+👉 Usando a tecla F9 atualiza o número aleatório
+
 ## Alguns atalhos importantes:
 
 #### CTRL + E
