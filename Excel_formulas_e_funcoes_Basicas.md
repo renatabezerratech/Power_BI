@@ -61,6 +61,8 @@ OBS👉 SUBTRAÇÃO não existe como função no Excel: subtração se faz atrav
 
 👉 Se quiser também pode gerar datas aleatórias, basta usar aspas ("09/01/2023"; "12/07/2024")
 
+👉 Se quiser também pode gerar valores em moedas como o real, por exemplo, bastando fazer (5000; 20000)/100 ---> seriam valores, inclusive decimais, entre 50 e 200.
+
 ## Alguns atalhos importantes:
 
 #### CTRL + E
