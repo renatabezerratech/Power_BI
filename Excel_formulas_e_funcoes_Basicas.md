@@ -55,9 +55,11 @@ OBS👉 SUBTRAÇÃO não existe como função no Excel: subtração se faz atrav
 
 ### 📌ALEATORIOENTRE
 
-👉 (ALEATORIOENTRE(inferior, superior)) função para gerar números aleatórios dentro de um intervalo definido. Serve para gerar dados para testes, serve para gerar senhas, etc
+👉 ALEATORIOENTRE(inferior, superior) função para gerar números aleatórios dentro de um intervalo definido. Serve para gerar dados para testes, serve para gerar senhas, etc
 
 👉 Usando a tecla F9 atualiza o número aleatório
+
+👉 Se quiser também pode gerar datas aleatórias, basta usar aspas ("09/01/2023"; "12/07/2024")
 
 ## Alguns atalhos importantes:
 
